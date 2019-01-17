@@ -98,3 +98,9 @@ jsonContent:
     excerpt: false
     categories: true
     tags: true
+
+algolia:
+  applicationID: '97UKHMZOJV'
+  apiKey: 'd0d68a2f280d22aaba5f8a52e1a9f1de'
+  indexName: 'archer_search'
+  chunkSize: 5000
