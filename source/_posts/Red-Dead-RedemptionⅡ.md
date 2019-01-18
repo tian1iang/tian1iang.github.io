@@ -5,6 +5,6 @@ header_image: /assets/west.jpg
 tags:
     - Electronic Games
 ---
-{% aplayer "After Dark" "Drake,Static Major,Ty Dolla $ign" "/assets/after_dark.mp3" "/assets/Scorpion.jpg" "/assets/After Dark-Drake,Static Major,Ty Dolla $ign.lrc" %}
+{% aplayer "After Dark" "Drake,Static Major,Ty Dolla $ign" "http://m10.music.126.net/20190118140548/032658ee9d9ed216c5d6ec05562b5fb5/ymusic/f609/dcf4/37a6/c4931045fff1e66efe6b4d994d282f3c.mp3" "/assets/Scorpion.jpg" "/assets/after_dark.lrc" %}
 欢迎来到西部世界
 <!-- more -->
