@@ -7,3 +7,4 @@ tags:
 ---
 {% aplayer "How Would You Feel (Paean)" "Ed Sheeran" "/assets/Ed Sheeran - How Would You Feel (Paean).mp3" "/assets/divide.jpg" "" %}
 欢迎来到西部世界
+<!-- more -->
